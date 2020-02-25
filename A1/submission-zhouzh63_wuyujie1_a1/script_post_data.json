@@ -1,0 +1,20 @@
+{
+  "actor_info": {
+    "Claudius": [
+      "2",
+      "3"
+    ],
+    "Hamlet": [
+      "5",
+      "0"
+    ]
+  },
+  "content_info": "That's it Claudius, I'm leaving!Fine! Oh..he left already..",
+  "part": [
+    "0",
+    "31",
+    "32",
+    "58"
+  ],
+  "scriptNum": "1"
+}

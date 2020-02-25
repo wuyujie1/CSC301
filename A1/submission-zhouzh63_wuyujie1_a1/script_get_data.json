@@ -1,0 +1,19 @@
+{
+  "actor": {
+    "1 Hamlet": [
+      "5", 
+      "0"
+    ], 
+    "2 Claudius": [
+      "2", 
+      "3"
+    ]
+  }, 
+  "content": "That's it Claudius, I'm leaving!Fine! Oh..he left already..", 
+  "part": [
+    "0", 
+    "31", 
+    "32", 
+    "58"
+  ]
+}
